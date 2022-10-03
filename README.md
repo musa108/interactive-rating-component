@@ -4,6 +4,8 @@ interactive rating componenet
 HTML 5 
 CSS (VANILLA AND BOOTSRAP)
 JAVASCRIPT
+# link
+live url:https://musa108.github.io/interactive-rating-component/ 
 # Comment
 responsive on both mobile and desktop
 # ackowledgment
